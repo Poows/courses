@@ -1,0 +1,4 @@
+﻿  temperature.cpp
+D:\CourseraHomework\temperature\temperature\temperature.cpp(19,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\CourseraHomework\temperature\temperature\temperature.cpp(30,10): warning C4244:  инициализация: преобразование "int64_t" в "int", возможна потеря данных
+  temperature.vcxproj -> D:\CourseraHomework\temperature\Debug\temperature.exe

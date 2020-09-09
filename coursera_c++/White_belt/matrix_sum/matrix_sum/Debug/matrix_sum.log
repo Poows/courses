@@ -1,0 +1,3 @@
+﻿  matrix_sum.cpp
+D:\CourseraHomework\matrix_sum\matrix_sum\matrix_sum.cpp(67,6): warning C4101:  x: неиспользованная локальная переменная
+  matrix_sum.vcxproj -> D:\CourseraHomework\matrix_sum\Debug\matrix_sum.exe

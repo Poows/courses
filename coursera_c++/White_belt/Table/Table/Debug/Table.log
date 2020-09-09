@@ -1,0 +1,5 @@
+﻿  Table.cpp
+C:\CourseraHomework\Table\Table\Table.cpp(19,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\CourseraHomework\Table\Table\Table.cpp(53,22): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\CourseraHomework\Table\Table\Table.cpp(60,19): warning C4018:  <: несоответствие типов со знаком и без знака
+  Table.vcxproj -> C:\CourseraHomework\Table\Debug\Table.exe

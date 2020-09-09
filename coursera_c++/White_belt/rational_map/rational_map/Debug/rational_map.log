@@ -1,0 +1,4 @@
+﻿  rational_map.cpp
+C:\CourseraHomework\rational_map\rational_map\rational_map.cpp(133,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\CourseraHomework\rational_map\rational_map\rational_map.cpp(138,9): warning C4101:  val: неиспользованная локальная переменная
+  rational_map.vcxproj -> C:\CourseraHomework\rational_map\Debug\rational_map.exe

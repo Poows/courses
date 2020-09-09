@@ -1,0 +1,4 @@
+﻿  MeanTemp.cpp
+C:\CourseraHomework\MeanTemp\MeanTemp\MeanTemp.cpp(31,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\CourseraHomework\MeanTemp\MeanTemp\MeanTemp.cpp(37,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  MeanTemp.vcxproj -> C:\CourseraHomework\MeanTemp\Debug\MeanTemp.exe

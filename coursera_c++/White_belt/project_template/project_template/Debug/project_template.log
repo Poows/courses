@@ -1,0 +1,4 @@
+﻿  project_template.cpp
+D:\CourseraHomework\project_template\project_template\project_template.cpp(299,26): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\CourseraHomework\project_template\project_template\project_template.cpp(326,26): warning C4018:  <: несоответствие типов со знаком и без знака
+  project_template.vcxproj -> D:\CourseraHomework\project_template\Debug\project_template.exe

@@ -1,0 +1,5 @@
+﻿  Register.cpp
+C:\CourseraHomework\Register\Register\Register.cpp(30,25): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\CourseraHomework\Register\Register\Register.cpp(35,29): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\CourseraHomework\Register\Register\Register.cpp(44): warning C4715:  my_fnc: значение возвращается не при всех путях выполнения
+  Register.vcxproj -> C:\CourseraHomework\Register\Debug\Register.exe

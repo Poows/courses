@@ -1,0 +1,3 @@
+﻿  time_server.cpp
+D:\CourseraHomework\time_server\time_server\time_server.cpp(40,23): warning C4101:  e: неиспользованная локальная переменная
+  time_server.vcxproj -> D:\CourseraHomework\time_server\Debug\time_server.exe

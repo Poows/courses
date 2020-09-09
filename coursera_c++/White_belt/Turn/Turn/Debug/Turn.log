@@ -1,0 +1,4 @@
+﻿  Turn.cpp
+C:\CourseraHomework\Turn\Turn\Turn.cpp(23,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\CourseraHomework\Turn\Turn\Turn.cpp(38,21): warning C4018:  <: несоответствие типов со знаком и без знака
+  Turn.vcxproj -> C:\CourseraHomework\Turn\Debug\Turn.exe

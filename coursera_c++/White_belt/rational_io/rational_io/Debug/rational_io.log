@@ -1,0 +1,45 @@
+﻿  rational_io.cpp
+C:\CourseraHomework\rational_io\rational_io\rational_io.cpp(133,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\CourseraHomework\rational_io\rational_io\rational_io.cpp(138,9): warning C4101:  val: неиспользованная локальная переменная
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstddef(124,1): error C2678:  бинарный "<": не найден оператор, принимающий левый операнд типа "const _Ty" (или приемлемое преобразование отсутствует)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstddef(124,1): error C2678:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstddef(124,1): error C2678:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstddef(124,1): error C2678:             _Ty=Rational
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstddef(124,1): error C2678:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\system_error(263,24): message :  может быть "bool std::operator <(const std::error_condition &,const std::error_condition &) noexcept"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\system_error(258,24): message :  или       "bool std::operator <(const std::error_code &,const std::error_code &) noexcept"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstddef(124,1): message :  при попытке сопоставить список аргументов "(const _Ty, const _Ty)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstddef(124,1): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstddef(124,1): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstddef(124,1): message :             _Ty=Rational
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstddef(124,1): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstddef(123): message :  во время компиляции функции-члена класс шаблон "bool std::less<_Kty>::operator ()(const _Ty &,const _Ty &) const"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstddef(123): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstddef(123): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstddef(123): message :             _Kty=Rational,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstddef(123): message :             _Ty=Rational
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstddef(123): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(622): message :  выполняется компиляция ссылки на экземпляр шаблон функции "bool std::less<_Kty>::operator ()(const _Ty &,const _Ty &) const"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(622): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(622): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(622): message :             _Kty=Rational,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(622): message :             _Ty=Rational
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xutility(622): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xmemory(1423): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "std::less<_Kty>"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xmemory(1423): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xmemory(1423): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xmemory(1423): message :             _Kty=Rational
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xmemory(1423): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xmemory(1422): message :  выполняется компиляция ссылки на шаблон переменной "const bool is_empty_v<std::less<Rational> >"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\set(49): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\set(49): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\set(49): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\set(49): message :             _Kty=Rational,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\set(49): message :             _Pr=std::less<Rational>,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\set(49): message :             _Alloc=std::allocator<Rational>
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\set(49): message :         ]
+C:\CourseraHomework\rational_io\rational_io\rational_io.cpp(165): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "std::set<Rational,std::less<_Kty>,std::allocator<_Kty>>"
+C:\CourseraHomework\rational_io\rational_io\rational_io.cpp(165): message :         with
+C:\CourseraHomework\rational_io\rational_io\rational_io.cpp(165): message :         [
+C:\CourseraHomework\rational_io\rational_io\rational_io.cpp(165): message :             _Kty=Rational
+C:\CourseraHomework\rational_io\rational_io\rational_io.cpp(165): message :         ]

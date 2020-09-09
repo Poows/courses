@@ -1,0 +1,5 @@
+﻿  PalindromFilter.cpp
+C:\CourseraHomework\PalindromFilter\PalindromFilter\PalindromFilter.cpp(13,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\CourseraHomework\PalindromFilter\PalindromFilter\PalindromFilter.cpp(20,37): warning C4018:  >=: несоответствие типов со знаком и без знака
+C:\CourseraHomework\PalindromFilter\PalindromFilter\PalindromFilter.cpp(30,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  PalindromFilter.vcxproj -> C:\CourseraHomework\PalindromFilter\Debug\PalindromFilter.exe

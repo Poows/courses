@@ -1,0 +1,5 @@
+﻿  Anagram.cpp
+C:\CourseraHomework\Anagram\Anagram\Anagram.cpp(39,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\CourseraHomework\Anagram\Anagram\Anagram.cpp(41,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\CourseraHomework\Anagram\Anagram\Anagram.cpp(59,21): warning C4018:  <: несоответствие типов со знаком и без знака
+  Anagram.vcxproj -> C:\CourseraHomework\Anagram\Debug\Anagram.exe

@@ -1,0 +1,3 @@
+﻿  MoveStrings.cpp
+C:\CourseraHomework\MoveStrings\MoveStrings\MoveStrings.cpp(10,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  MoveStrings.vcxproj -> C:\CourseraHomework\MoveStrings\Debug\MoveStrings.exe
