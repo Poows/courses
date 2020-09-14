@@ -1,0 +1,27 @@
+﻿  find_max_repetition_count.cpp
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(15,6): error C2065:  Lang: необъявленный идентификатор
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(15,2): error C2923:  std::map: "Lang" не является допустимым аргументом типа шаблон для параметра "_Kty"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\map(69,46): error C3203:  "less": неспециализированный класс шаблон нельзя использовать в качестве аргумента шаблон для параметра шаблон "_Pr", требуется действительный тип
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\map(69,83): error C3203:  "pair": неспециализированный класс шаблон нельзя использовать в качестве аргумента шаблон для параметра шаблон "_Ty", требуется действительный тип
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(28,10): error C2664:  "int FindMaxRepetitionCount(const std::vector<Region,std::allocator<_Ty>> &)": невозможно преобразовать аргумент 1 из "initializer list" в "const std::vector<Region,std::allocator<_Ty>> &"
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(28,10): error C2664:         with
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(28,10): error C2664:         [
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(28,10): error C2664:             _Ty=Region
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(28,10): error C2664:         ]
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(55,4): message :  Причина: невозможно преобразовать "initializer list" в "const std::vector<Region,std::allocator<_Ty>>"
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(55,4): message :         with
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(55,4): message :         [
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(55,4): message :             _Ty=Region
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(55,4): message :         ]
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(55,4): message :  Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(57,10): error C2664:  "int FindMaxRepetitionCount(const std::vector<Region,std::allocator<_Ty>> &)": невозможно преобразовать аргумент 1 из "initializer list" в "const std::vector<Region,std::allocator<_Ty>> &"
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(57,10): error C2664:         with
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(57,10): error C2664:         [
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(57,10): error C2664:             _Ty=Region
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(57,10): error C2664:         ]
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(84,4): message :  Причина: невозможно преобразовать "initializer list" в "const std::vector<Region,std::allocator<_Ty>>"
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(84,4): message :         with
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(84,4): message :         [
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(84,4): message :             _Ty=Region
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(84,4): message :         ]
+D:\CourseraHomework\coursera_c++\Yellow_belt\find_max_repetition_count\find_max_repetition_count\find_max_repetition_count.cpp(84,4): message :  Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
