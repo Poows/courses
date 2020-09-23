@@ -1,9 +1,1 @@
-﻿  Bus.cpp
-C:\CourseraHomework\Bus\Bus\Bus.cpp(51,26): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\CourseraHomework\Bus\Bus\Bus.cpp(103,24): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\CourseraHomework\Bus\Bus\Bus.cpp(141,24): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\CourseraHomework\Bus\Bus\Bus.cpp(151,27): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\CourseraHomework\Bus\Bus\Bus.cpp(168,27): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\CourseraHomework\Bus\Bus\Bus.cpp(175,30): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\CourseraHomework\Bus\Bus\Bus.cpp(205,24): warning C4018:  <: несоответствие типов со знаком и без знака
-  Bus.vcxproj -> C:\CourseraHomework\Bus\Debug\Bus.exe
+﻿  Bus.vcxproj -> D:\CourseraHomework\coursera_c++\White_belt\Bus\Debug\Bus.exe
