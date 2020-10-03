@@ -1,0 +1,25 @@
+﻿  iterator_test.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(55,1): error C3892:  _Left: невозможно присваивать значения переменной, которая объявлена как константа
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(34): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void std::swap<const int,void>(_Ty &,_Ty &) noexcept(false)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(34): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(34): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(34): message :             _Ty=const int
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(34): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\algorithm(4553): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void std::iter_swap<std::_Tree_unchecked_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>,std::_Iterator_base0>,std::_Tree_unchecked_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>,std::_Iterator_base0>>(_FwdIt1,_FwdIt2)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\algorithm(4553): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\algorithm(4553): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\algorithm(4553): message :             _FwdIt1=std::_Tree_unchecked_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>,std::_Iterator_base0>,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\algorithm(4553): message :             _FwdIt2=std::_Tree_unchecked_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>,std::_Iterator_base0>
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\algorithm(4553): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\algorithm(4567): message :  выполняется компиляция ссылки на экземпляр шаблон функции "bool std::next_permutation<_BidIt,std::less<void>>(_BidIt,_BidIt,_Pr)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\algorithm(4567): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\algorithm(4567): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\algorithm(4567): message :             _BidIt=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>>,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\algorithm(4567): message :             _Pr=std::less<void>
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\algorithm(4567): message :         ]
+D:\CourseraHomework\coursera_c++\Yellow_belt\iterator_test\iterator_test\iterator_test.cpp(56): message :  выполняется компиляция ссылки на экземпляр шаблон функции "bool std::next_permutation<std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>>>(_BidIt,_BidIt)"
+D:\CourseraHomework\coursera_c++\Yellow_belt\iterator_test\iterator_test\iterator_test.cpp(56): message :         with
+D:\CourseraHomework\coursera_c++\Yellow_belt\iterator_test\iterator_test\iterator_test.cpp(56): message :         [
+D:\CourseraHomework\coursera_c++\Yellow_belt\iterator_test\iterator_test\iterator_test.cpp(56): message :             _BidIt=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>>
+D:\CourseraHomework\coursera_c++\Yellow_belt\iterator_test\iterator_test\iterator_test.cpp(56): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(56,1): error C3892:  _Right: невозможно присваивать значения переменной, которая объявлена как константа

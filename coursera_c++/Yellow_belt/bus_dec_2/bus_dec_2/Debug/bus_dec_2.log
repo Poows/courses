@@ -1,0 +1,7 @@
+﻿  bus_manager.cpp
+  main.cpp
+  query.cpp
+  responses.cpp
+  Создание кода...
+D:\CourseraHomework\coursera_c++\Yellow_belt\bus_dec_2\bus_dec_2\query.cpp(16,24): warning C4018:  <: несоответствие типов со знаком и без знака
+  bus_dec_2.vcxproj -> D:\CourseraHomework\coursera_c++\Yellow_belt\bus_dec_2\Debug\bus_dec_2.exe

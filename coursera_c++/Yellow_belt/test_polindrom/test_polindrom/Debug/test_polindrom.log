@@ -1,0 +1,3 @@
+﻿  test_polindrom.cpp
+D:\CourseraHomework\coursera_c++\Yellow_belt\test_polindrom\test_polindrom\test_polindrom.cpp(99,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  test_polindrom.vcxproj -> D:\CourseraHomework\coursera_c++\Yellow_belt\test_polindrom\Debug\test_polindrom.exe
